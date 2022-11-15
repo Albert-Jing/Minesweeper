@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">MineSweeper</string>
+<string name="win">Congratulations, you won!</string>
+<string name="loss">Sorry, game over! Good try!</string>
+<string name="flag">Flag</string>
+<string name="Reset">Reset</string>
+<string name="flagTracker">Bombs Flagged: </string>
+<string name="numberTen">10</string>
+</resources>
